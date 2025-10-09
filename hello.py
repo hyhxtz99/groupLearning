@@ -1,3 +1,2 @@
 print('hello world')
-print('how are you')
-print('hello world again')
+print('where are you')
