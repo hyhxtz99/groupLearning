@@ -1,2 +1,7 @@
+print('hello')
 print('hello world')
 print('where are you')
+print('how are you')
+print('hello world')
+print('where are you')
+print('how are you')
